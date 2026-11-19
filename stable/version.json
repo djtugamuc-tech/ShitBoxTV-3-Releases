@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "3.0.2",
-  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-3-Releases/releases/download/v3.0.2/shitbox-tv3-3.0.2.apk",
-  "changelog": "Update-Prüfung über die GitHub-Release-Schnittstelle (sofort aktuell), Free TV, Wetter, movie.mn, VoD, NOS TV."
+  "versionCode": 4,
+  "versionName": "3.1.0",
+  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-3-Releases/releases/download/v3.1.0/shitbox-tv3-3.1.0.apk",
+  "changelog": "Film-Quellen (Filmpalast, HDFilme, FilmPro, Topstreamfilm, MEGAKino, KellerKino, Movie2K, SerienStream, AniWorld, NetzKino), Free TV mit Programm/Favoriten/Suche/Kinderschutz, movie.mn mit 18+-PIN, Wetter im Menü, kompaktere Tab-Leiste."
 }
