@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "3.0.1",
-  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-3-Releases/releases/download/v3.0.1/shitbox-tv3-3.0.1.apk",
-  "changelog": "Test des Update-Wegs (3.0.1)."
+  "versionCode": 3,
+  "versionName": "3.0.2",
+  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-3-Releases/releases/download/v3.0.2/shitbox-tv3-3.0.2.apk",
+  "changelog": "Update-Prüfung über die GitHub-Release-Schnittstelle (sofort aktuell), Free TV, Wetter, movie.mn, VoD, NOS TV."
 }
