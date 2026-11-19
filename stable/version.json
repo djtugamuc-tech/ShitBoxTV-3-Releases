@@ -1,1 +1,6 @@
-{"versionCode":0,"versionName":"0.0.0","apkUrl":"","changelog":""}
+{
+  "versionCode": 1,
+  "versionName": "3.0.0",
+  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-3-Releases/releases/download/v3.0.0/shitbox-tv3-3.0.0.apk",
+  "changelog": "Erste Version von ShitBoxTV 3.0: Oberfläche in der App, NOS TV, Free TV (Portugal, Mongolei, Länder), Wetter, Updates über GitHub. Freischaltbar: NOS TV, VoD (NetzKino), movie.mn."
+}
